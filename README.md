@@ -21,7 +21,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-### Core Platforms (Email Deliverability AI Toolkits)
+### Comparison of Email Deliverability AI Toolkits
+
+| Tool | Entry Price | Free Tier Limit | Key Focus |
+| :--- | :--- | :--- | :--- |
+| **[MXToolbox](https://mxtoolbox.com/)** | $129/mo | 1 Domain / Weekly checks | DNS & Blacklist Monitoring |
+| **[PowerDMARC](https://powerdmarc.com/)** | $8/mo | 1 Domain / 10k emails | DMARC & BIMI Security |
+| **[GlockApps](https://glockapps.com/)** | $59/mo | 2 Spam tests/mo | Inbox Placement Testing |
+| **[Unspam](https://unspam.email/)** | $9/mo | 10 Spam tests/mo | Visual Heatmaps & Testing |
+| **[Smartlead](https://smartlead.ai/)** | $39/mo | 14-Day Free Trial | Cold Email Sequencing |
+| **[MailReach](https://mailreach.co/)** | $25/mo | 3 Spam tests/day | Email Warmup |
+| **[ZeroBounce](https://www.zerobounce.net/)** | $20 (PAYG) | 100 Credits/mo | List Cleaning & Verification |
+| **[Google Postmaster](https://postmaster.google.com/)** | Free | Always Free | Gmail Inbox Reputation |
+| **[Microsoft SNDS](https://sendersupport.olc.protection.outlook.com/snds/)** | Free | Always Free | Outlook/Hotmail Reputation |
+
+### Core Platforms (Detailed)
 
 - **[MXToolbox](https://mxtoolbox.com/)**  
   Industry-standard toolkit for DNS, blacklist, and deliverability monitoring with AI-driven insights and diagnostics.
@@ -46,7 +60,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Google Postmaster Tools, Microsoft SNDS, Validity, and SenderScore.
+- **[Google Postmaster Tools](https://postmaster.google.com/)**  
+  Essential for monitoring your domain's reputation with Gmail, providing data on spam rate, encryption, and delivery errors.
+
+- **[Microsoft SNDS (Smart Network Data Services)](https://sendersupport.olc.protection.outlook.com/snds/)**  
+  Provides insights into how your sending IP is viewed by Outlook.com, including spam complaint rates and "trap" hits.
+
+- **[Validity (Everest)](https://www.validity.com/everest/)**  
+  Enterprise-grade deliverability platform that combines seed list testing, reputation monitoring, and list verification.
+
+- **[SenderScore](https://www.senderscore.org/)**  
+  A free service by Validity that scores your IP reputation on a scale of 0-100, similar to a credit score for email.
 
 ## Open-Source GitHub Projects
 
