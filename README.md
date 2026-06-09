@@ -1,14 +1,22 @@
 # 📧 Awesome Email Deliverability AI Toolkit 🚀
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 ![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Email-Deliverability-AI-Toolkit?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Email-Deliverability-AI-Toolkit?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/ishandutta2007/Awesome-Email-Deliverability-AI-Toolkit?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Email-Deliverability-AI-Toolkit?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 > **The ultimate curated list of AI-powered email deliverability tools, reputation management platforms, and open-source projects to ensure your emails hit the inbox every time.**
 
+</div>
 ---
 
 ## 📖 Overview
